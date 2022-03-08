@@ -1,0 +1,40 @@
+apiVersion: v1
+entries:
+  openfaas-loki:
+  - apiVersion: v1
+    appVersion: v1.6.0
+    created: "2022-03-08T16:10:26.805984673+01:00"
+    description: A Loki powered log provider for OpenFaaS
+    digest: ce215726e25b52d343925ce935569f22c63a3fbc6571690479d1b01cb4f6adcb
+    maintainers:
+    - name: Lucas Roesler
+      url: https://lucasroesler.com
+    name: openfaas-loki
+    urls:
+    - https://lucasroesler.github.io/helm-charts/charts/openfaas-loki-1.6.0.tgz
+    version: 1.6.0
+  - apiVersion: v1
+    appVersion: 1.5.0
+    created: "2022-03-08T14:06:13.480826746+01:00"
+    description: A Loki powered log provider for OpenFaaS
+    digest: 6b771dd29ba1b35757cf84e467ab46f362c349beb3832b59260dc653fcf9bd32
+    maintainers:
+    - name: Lucas Roesler
+      url: https://lucasroesler.com
+    name: openfaas-loki
+    urls:
+    - https://lucasroesler.github.io/helm-charts/charts/openfaas-loki-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: v1.5.0
+    created: "2022-03-08T16:10:26.804874085+01:00"
+    description: A Loki powered log provider for OpenFaaS
+    digest: 5420b92b80773c64b6926c8ab2b41b71dfb757bffed252efb269bd6affc38e4f
+    maintainers:
+    - name: Lucas Roesler
+      url: https://lucasroesler.com
+    name: openfaas-loki
+    urls:
+    - https://lucasroesler.github.io/helm-charts/charts/openfaas-loki-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-08T16:10:26.803427334+01:00"
